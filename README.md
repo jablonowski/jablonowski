@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **[Design System Blueprint](https://github.com/jablonowski/design-system-blueprint)**.
-- 🌱 I’m constantly refining my skills in software engineering.
+- 🌱 I’m constantly refining my software engineering skills.
 - 💬 Don't hesitate to contact me if you have any question.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mateuszjablonowski/)
 
