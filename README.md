@@ -8,12 +8,22 @@
 
 ---
 
-### 💻 Tech Stack & Tools
+#### 🌐 Broad Foundation (Cross-Domain Proficiency)
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Frontend Frameworks** | React • JavaScript • Angular • Vue.js |
+| **Backend & Runtime** | Node.js • Express • Python |
+| **QA & Automation** | Playwright • Robot Framework • Jest • Cypress |
+| **Styling & Design** | Tailwind CSS • CSS Modules • Figma • Token Studio |
+| **DevOps & Tooling** | Git • CI/CD (GitHub Actions) • Vite • Docker |
+
+<br/>
 
 <p align="left">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
