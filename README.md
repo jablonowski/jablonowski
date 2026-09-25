@@ -10,12 +10,6 @@
 
 ### 💻 Tech Stack & Tools
 
-![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TypeScript%20%7C%20Tailwind-blue?style=for-the-badge)
-![Styling](https://img.shields.io/badge/Design%20System-Storybook%20%7C%20Figma%20%7C%20CSS%20Modules-purple?style=for-the-badge)
-![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20Vite%20%7C%20Node.js-green?style=for-the-badge)
-
-<br/>
-
 <p align="left">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
