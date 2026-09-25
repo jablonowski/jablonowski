@@ -37,17 +37,4 @@
 
 ---
 
-### 🌟 Featured Project
-<div align="center">
-  <h3><a href="https://github.com/jablonowski/design-system-blueprint">🎨 Design System Blueprint</a></h3>
-  <p>A production-grade design system blueprint for testing architecture, engineering approach, and robustness with agentic coding workflows.</p>
-  
-  ![License](https://img.shields.io/github/license/jablonowski/design-system-blueprint?style=flat-square)
-  ![Stars](https://img.shields.io/github/stars/jablonowski/design-system-blueprint?style=flat-square)
-  ![Forks](https://img.shields.io/github/forks/jablonowski/design-system-blueprint?style=flat-square)
-  ![Issues](https://img.shields.io/github/issues/jablonowski/design-system-blueprint?style=flat-square)
-</div>
-
----
-
-> ⭐ **If any of my repositories saved you time or simply caught your attention, throw a star on them! If they broke your code, star them out of spite!** 😉✨
+⭐ **If any of my repositories saved you time or simply caught your attention, throw a star on them! If they broke your code, star them out of spite!** 😉✨
