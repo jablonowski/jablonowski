@@ -1,4 +1,4 @@
-# Hi there, I'm Jablonowski 👋
+# Hi there, I'm Mateusz Jablonowski 👋
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **[Design System Blueprint](https://github.com/jablonowski/design-system-blueprint)**.
@@ -17,12 +17,18 @@
 <br/>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <!-- QA -->
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robot-framework&logoColor=white" alt="Robot Framework"/>
 </p>
 
 ---
@@ -40,13 +46,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jablonowski&show_icons=true&theme=radial&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jablonowski&layout=compact&theme=radial&hide_border=true" />
-</p>
-
----
-
-### ⭐️ Call to Action
-> ⭐ **If any of my repositories saved you time, throw a star on them! If they broke your code, star them out of spite!** 😉✨
+> ⭐ **If any of my repositories saved you time or simply caught your attention, throw a star on them! If they broke your code, star them out of spite!** 😉✨
