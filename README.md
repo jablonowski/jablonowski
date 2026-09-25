@@ -12,11 +12,11 @@
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Frontend Frameworks** | React • JavaScript • Angular • Vue.js |
+| **Frontend Frameworks** | JavaScript • TypeSript • Angular • React • Vue.js |
 | **Backend & Runtime** | Node.js • Express • Python |
-| **QA & Automation** | Playwright • Robot Framework • Jest • Cypress |
-| **Styling & Design** | Tailwind CSS • CSS Modules • Figma • Token Studio |
-| **DevOps & Tooling** | Git • CI/CD (GitHub Actions) • Vite • Docker |
+| **QA & Automation** | Playwright • Robot Framework • Cypress |
+| **Styling & Design** | Design System • Figma |
+| **DevOps & Tooling** | Git • CI/CD • Vite • Docker |
 
 <br/>
 
